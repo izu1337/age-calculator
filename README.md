@@ -1,5 +1,5 @@
 # days-calculator
-my first tool is a tool that calculates days from a given date
+my first tool calculates days from a given date
 
 The goal of this website is to train myself by developing different small tools. I will do my best to motivate myself to step up and update it frequently
 
